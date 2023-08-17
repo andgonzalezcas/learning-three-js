@@ -1,5 +1,6 @@
 import * as THREE from 'three'
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js'
+import typefaceFont from 'three/examples/fonts/helvetiker_regular.typeface.json'
 
 THREE.ColorManagement.enabled = false
 
